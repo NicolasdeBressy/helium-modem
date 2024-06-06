@@ -14,4 +14,4 @@ Ce projet contient une page web statique pour présenter le modem Helium. Il uti
 
 ## Utilisation
 
-Pour voir la page en action, ouvre `index.html` dans un navigateur web. ```
+Pour voir la page en action, ouvre `index.html` dans un navigateur web.
